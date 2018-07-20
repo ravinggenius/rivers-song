@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/module.xsd">
+    <router id="standard">
+        <route frontName="parrot" id="parrot">
+            <module name="RiversSong_Parrot" />
+        </route>
+    </router>
+</config>
